@@ -1,5 +1,5 @@
-function exists() {}
-function keep() {}
-function map() {}
-function processor() {}
-function main() {}
+function w2_test_i_exists() {}
+function w2_test_i_keep() {}
+function w2_test_i_map() {}
+function w2_test_i_processor() {}
+function w2_test_i_main() {}
