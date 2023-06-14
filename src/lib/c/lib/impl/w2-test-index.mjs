@@ -1,9 +1,9 @@
-function w2_test_i_exists() {}
-function w2_test_i_keep() {}
-function w2_test_i_map() {}
-function w2_test_i_processor() {}
+function w2_test_i_main_exists() {}
+function w2_test_i_main_keep() {}
+function w2_test_i_main_map() {}
+function w2_test_i_wti_processor() {}
 function w2_test_i_main() {}
-function w2_test_i_main_retry() {}
-function w2_test_i_get() {}
-function w2_test_i_set() {}
-function w2_test_i_persist() {}
+function w2_test_i_wti_retry() {}
+function w2_test_i_main_get() {}
+function w2_test_i_main_set() {}
+function w2_test_i_wti_persist() {}
